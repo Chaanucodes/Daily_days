@@ -9,6 +9,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         println("Grey lines not here, only green")
-        Mayday
+
+
     }
 }
