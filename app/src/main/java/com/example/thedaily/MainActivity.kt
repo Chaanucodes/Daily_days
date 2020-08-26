@@ -10,5 +10,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         Log.i("THE_TAG", "THE COMMIT")
+        println("The test 2")
     }
 }
