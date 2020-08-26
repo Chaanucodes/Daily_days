@@ -14,5 +14,7 @@ class MainActivity : AppCompatActivity() {
         println("The test 3")
         println("The test 4")
         println("The test 5")
+        println("The test 6")
+        println("The test 7")
     }
 }
