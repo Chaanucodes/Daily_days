@@ -13,5 +13,13 @@ class MainActivity : AppCompatActivity() {
         println("The test 5")
         println("The test 6")
         println("The test 7")
+
+    }
+
+    fun dost(){
+        val s = 2+1
+        println("function 1")
+        println("fun.. 2")
+        println("fun.. 3")
     }
 }
