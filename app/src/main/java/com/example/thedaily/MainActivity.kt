@@ -12,5 +12,7 @@ class MainActivity : AppCompatActivity() {
         Log.i("THE_TAG", "THE COMMIT")
         println("The test 2")
         println("The test 3")
+        println("The test 4")
+        println("The test 5")
     }
 }
