@@ -10,7 +10,8 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         Log.i("THE_TAG", "THE COMMIT")
-        println("The test 2")
-        println("The test 3")
+        println("The test 5")
+        println("The test 6")
+        println("The test 7")
     }
 }
